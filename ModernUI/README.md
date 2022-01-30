@@ -2,4 +2,4 @@
 
 ## 실행화면
 
-![실행화면]('./snapstot/image.png')
+![실행화면]('./snapshot/image.png')
