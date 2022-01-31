@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5d34520-d049-4725-b21a-8f306e45bd7b": {
+      "ProjectGuid": "f5d34520-d049-4725-b21a-8f306e45bd7b",
+      "DisplayName": "WpfTreeView",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
